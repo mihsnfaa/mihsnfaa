@@ -12,14 +12,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repo (keep credentials and full history for pushes)
+      # 1️⃣ Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
 
-      # Generate snake svgs (svg-only avoids internal commit/push incompatibility)
+      # 2️⃣ Generate snake SVG
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,3 +27,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3️⃣ Commit & push to output branch
+      - name: Commit and push snake
+        run: |
+          git checkout -B output
+          git add dist/*.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Generate snake contribution" || echo "No changes to commit"
+          git push origin output --force

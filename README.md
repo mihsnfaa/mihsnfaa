@@ -13,15 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,nodejs,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpine,nodejs,firebase,mongodb,mysql" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
-
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=livewire,filament,restapis" />
 </p>
 
 ---
@@ -40,7 +36,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Metrics](https://metrics.lecoq.io/mihsnfaa?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&languages=1&languages.indepth=1&languages.limit=8&languages.colors=github&config.timezone=Asia/Jakarta)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mihsnfaa&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 ---
 
@@ -63,3 +62,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihsnfaa&color=blueviolet&style=flat"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/github-contribution-grid-snake-dark.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/github-contribution-grid-snake.svg">
+</picture>

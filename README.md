@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpine,nodejs,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,nodejs,firebase,mongodb,mysql" />
 </p>
 
 <p align="center">

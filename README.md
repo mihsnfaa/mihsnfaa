@@ -2,23 +2,34 @@
 
 <p align="center">
   💻 Full Stack Web Developer & Informatics Student <br/>
-  🚀 Laravel • Tailwind CSS • Livewire • MySQL
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 🧩 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,php,js" />
+</p>
+
+### ⚙️ Frameworks & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpine,nodejs,firebase,mongodb,mysql" />
+</p>
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,js,git" />
+  ⚙️ Livewire • Filament • REST APIs
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Informatics student with a strong interest in web development  
-- 🌱 Focused on building **clean, scalable, and user-friendly applications**  
-- ⚡ Passionate about writing readable and maintainable code  
-
----
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 - 🌲 **Pineus Tilu**  
   Web-based tourism reservation system built with Laravel, Livewire, and MySQL
 
@@ -32,35 +43,17 @@
 
 ---
 
-### 🛠 Tech Stack
-**Backend**
-- Laravel, PHP
-- MySQL
-- RESTful APIs
+## 📊 GitHub Stats
 
-**Frontend**
-- Tailwind CSS
-- Alpine.js
-- HTML, JavaScript
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mihsnfaa&show_icons=true&theme=tokyonight)
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma (UI reference)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mihsnfaa&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihsnfaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihsnfaa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight&hide_border=true)
-
----
-
-### 📫 Connect With Me
+## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/mihsnfaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -79,4 +72,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihsnfaa&color=blueviolet&style=flat"/>
 </p>
-

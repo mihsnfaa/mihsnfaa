@@ -8,17 +8,14 @@
 
 ## 🧠 Tech Stack
 
-### 🧩 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,php,js" />
 </p>
 
-### ⚙️ Frameworks & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,nodejs,firebase,mongodb,mysql" />
 </p>
 
-### 🛠 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>

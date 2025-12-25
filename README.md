@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  ⚙️ Livewire • Filament • REST APIs
+   <img src="https://skillicons.dev/icons?i=livewire,filament,restapis" />
 </p>
 
 ---

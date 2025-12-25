@@ -1,21 +1,30 @@
 <h2 align="center">Hi 👋, I'm Jey</h2>
 
 <p align="center">
-  💻 Full Stack Web Developer & Informatics Student <br/>
+  <b>Full Stack Web Developer</b> • Informatics Student<br/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mihsnfaa">
+    <img src="https://komarev.com/ghpvc/?username=mihsnfaa&color=blueviolet&style=flat"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 Tech Stack
 
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,php,js" />
 </p>
 
+### Frameworks & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,nodejs,firebase,mongodb,mysql" />
 </p>
 
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
@@ -23,20 +32,24 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌲 **Pineus Tilu**  
-  Web-based tourism reservation system built with Laravel, Livewire, and MySQL
 
-- 🧾 **Invoice Automation**  
-  Automatic PDF invoice generation and email delivery using Laravel and DOMPDF
+### 🌲 Pineus Tilu
+Web-based tourism reservation system built with **Laravel**, **Livewire**, and **MySQL**.  
+Features booking flow, admin panel, and automated invoices.
 
-- 🐾 **Animal Education AR**  
-  Augmented Reality-based educational app designed for children
+### 🧾 Invoice Automation
+Automatic **PDF invoice generation** and **email delivery** using Laravel and DOMPDF.
+
+### 🐾 Animal Education AR
+Augmented Reality–based educational application designed for children.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -56,18 +69,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihsnfaa&color=blueviolet&style=flat"/>
-</p>
-
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/dist/github-contribution-grid-snake-dark.svg">
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/mihsnfaa/mihsnfaa/output/dist/github-contribution-grid-snake.svg">
 </picture>

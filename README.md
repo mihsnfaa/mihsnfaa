@@ -38,9 +38,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mihsnfaa&theme=tokyonight&no-frame=true&row=1&column=6)
-
-
 ---
 
 ## 📫 Connect With Me

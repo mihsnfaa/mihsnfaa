@@ -73,11 +73,11 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/mihsnfaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=mihsnfaa&color=blueviolet&style=flat"/>
 </p>

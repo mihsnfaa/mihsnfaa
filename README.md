@@ -36,17 +36,11 @@
 - 🐾 **Animal Education AR**  
   Augmented Reality-based educational app designed for children
 
-> 📌 Make sure these projects are **pinned on your GitHub profile**
-
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mihsnfaa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mihsnfaa&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
+![GitHub Metrics](https://metrics.lecoq.io/mihsnfaa?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&languages=1&languages.indepth=1&languages.limit=8&languages.colors=github&config.timezone=Asia/Jakarta)
 
 ---
 

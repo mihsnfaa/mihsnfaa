@@ -1,0 +1,26 @@
+name: Generate GitHub Stats Image
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at UTC midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download GitHub stats image
+        run: |
+          mkdir -p assets
+          curl -sSf -o assets/github-stats.png "https://github-readme-stats.vercel.app/api?username=mihsnfaa&theme=radical&show_icons=true&count_private=true"
+
+      - name: Commit generated image
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          message: 'chore: update generated GitHub stats image'
+          add: 'assets/github-stats.png'

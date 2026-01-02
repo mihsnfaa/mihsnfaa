@@ -47,7 +47,7 @@ Augmented Reality–based educational application designed for children.
 
 ## 📊 GitHub Stats
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihsnfaa&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihsnfaa&theme=radical&show_icons=true&count_private=true)
 
 ---
 

@@ -35,8 +35,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihsnfaa&theme=tokyonight)
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihsnfaa&theme=tokyonight&show_icons=true)
 
 ---
 
